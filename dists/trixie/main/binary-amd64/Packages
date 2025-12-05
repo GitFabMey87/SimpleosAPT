@@ -1,3 +1,17 @@
+Package: SimpleOS-backgrounds
+Priority: optional
+Section: utils
+Maintainer: fabrice meynard <fabricemeynard@laposte.net>
+Architecture: amd64
+Version: 0.1
+Filename: pool/main/S/SimpleOS-backgrounds/SimpleOS-backgrounds_0.1.deb
+Size: 1370796
+MD5sum: ff9ec6181aa4d0b45da55c7a43931345
+SHA1: f71696f60e6f748b6fdb4a55ae369a4c8eeaedec
+SHA256: e975d182b127242dc8daf4846d126c845fc98992db7dda971b900dcd68e19845
+SHA512: 8b3d5549b96eed2584b30c93eb1676d02eaf9af38aaf6cdb9efd36e1de6633af75cdad494c914a51997e98f1cacd316bafcb18a39a9823f5ded976bbc0bbc226
+Description: Fonds d'ecran de Simple.os 
+
 Package: SimpleOS-icons
 Priority: optional
 Section: utils
