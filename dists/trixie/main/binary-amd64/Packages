@@ -26,3 +26,17 @@ SHA256: 74d2b0029ffe20493c5deae72e1b1cf6f247573bdd91d5875ffbe017ab719001
 SHA512: 3f0784cae69f0625902fbed6ea5954215090a067ba56d92b1d5cf6b86fb29e4ca61de49767086bf1781c257b25e89b3747d1e1b486f564252ce9245191679cde
 Description: Fonds d'ecran de Simple.os 
 
+Package: simpleos-theme
+Priority: optional
+Section: utils
+Maintainer: fabrice meynard <fabricemeynard@laposte.net>
+Architecture: amd64
+Version: 0.1
+Filename: pool/main/s/simpleos-theme/SimpleOS-GrubTheme_0.1.deb
+Size: 1344
+MD5sum: 84ecd04906a246b37fecaa0f1fd7fca0
+SHA1: 8f0369fe312434feb047f9b72c9f2f17dc45487e
+SHA256: c8d4df6d81bb73d9fa6012ef7d3e7f831c1d64a9bc50df26d42ee20e709b9893
+SHA512: a69a21a20fbc2ad1b33765ffe3afcd09b672977647ab5204f41536125ce763eeae84bec17b9c35326b5b18dabbb0d48745e704156a7f1ef97dc773f13e3cb37a
+Description: Fonds d'ecran de Simple.os 
+
