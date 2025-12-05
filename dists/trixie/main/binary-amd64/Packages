@@ -1,0 +1,14 @@
+Package: SimpleOS-icons
+Priority: optional
+Section: utils
+Maintainer: fabrice meynard <fabricemeynard@laposte.net>
+Architecture: amd64
+Version: 0.1
+Filename: pool/main/S/SimpleOS-icons/SimpleOS-icons_0.1.deb
+Size: 9804
+MD5sum: 11b29aa1e5e724b6cda13dd1da4ffa26
+SHA1: 233595535c1361bb6b009a27c72d217bcb0161bc
+SHA256: 74d2b0029ffe20493c5deae72e1b1cf6f247573bdd91d5875ffbe017ab719001
+SHA512: 3f0784cae69f0625902fbed6ea5954215090a067ba56d92b1d5cf6b86fb29e4ca61de49767086bf1781c257b25e89b3747d1e1b486f564252ce9245191679cde
+Description: Fonds d'ecran de Simple.os 
+
